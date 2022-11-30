@@ -1,0 +1,16 @@
+name: Latest Algotrading101 blog post workflow
+on:
+  schedule:
+    # Runs every two weeks
+    - cron: "0 0 */14 * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@1.8.0
+        with:
+          feed_list: "https://algotrading101.com/learn/feed"
