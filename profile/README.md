@@ -1,5 +1,17 @@
 # AlgoTrading101
 
+AlgoTrading101 is a online algorithmic trading course. It was started in 2014 and has over 30,000 students.
+
+Check it out here: <a href="https://algotrading101.com">algotrading101.com</a><br>
+Check out our blog here: <a href="https://algotrading101.com/learn">algotrading101.com/learn</a>
+
+## Instructors
+
+<ul>
+    <li><a href="https://algotrading101.com/learn/about-us/#lucas-liew">Lucas Liew</a></li>
+    <li><a href="https://algotrading101.com/learn/about-us/#igor-radovanovic">Igor Radovanovic</a></li>
+</ul>
+
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
